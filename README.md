@@ -18,6 +18,10 @@ Spacy：https://spacy.io/api
 
 Stanford OpenIE：https://nlp.stanford.edu/software/openie.html
 
+# Some SOTA text-based story generation examples
 
+https://app.inferkit.com/demo
+https://sassbook.com/ai-story-writer
+https://rytr.me/ 
 
 
