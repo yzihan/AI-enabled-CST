@@ -18,6 +18,12 @@ Spacy：https://spacy.io/api
 
 Stanford OpenIE：https://nlp.stanford.edu/software/openie.html
 
+# Some Website to Access/Share State of Art Models
+
+Hugging Face: https://huggingface.co/
+
+Replicate: https://replicate.com/
+
 # Some SOTA text-based story generation examples
 
 https://app.inferkit.com/demo
