@@ -30,9 +30,25 @@ Replicate: https://replicate.com/
 
 Rapid API: https://rapidapi.com/hub
 
+ml5.js: https://ml5js.org/
+
 ## Some SOTA text-based story generation examples
 
 https://app.inferkit.com/demo
+
 https://sassbook.com/ai-story-writer
+
 https://rytr.me/ 
+
+## Some interesting paper
+
+StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactive Storytelling with Flexible Parental Involvement
+
+StoryDrawer: A Child–AI Collaborative Drawing System to Support Children's Creative Visual Storytelling
+
+I Lead, You Help but Only with Enough Details: Understanding User Experience of Co-Creation with Artificial Intelligence
+
+FashionQ: An AI-Driven Creativity Support Tool for Facilitating Ideation in Fashion Design
+
+StreamSketch: Exploring Multi-Modal Interactions in Creative Live Streams
 
