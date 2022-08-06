@@ -6,6 +6,8 @@ painter: https://github.com/aml2610/react-painter#readme
 
 object detection: https://rapidapi.com/eyerecognize/api/deep-image-object-recognition
 
+semantic-segmentation: https://huggingface.co/nvidia/segformer-b0-finetuned-ade-512-512
+
 plant recognition: https://web.plant.id/plant-identification-api/
 
 texture recognition (need to apply): https://www.clarifai.com/models/texture-recognition
