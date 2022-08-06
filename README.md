@@ -22,6 +22,8 @@ Stanford OpenIE：https://nlp.stanford.edu/software/openie.html
 
 Arbitrary Neural Style Transfer: https://replicate.com/collections/style-transfer
 
+image search: https://www.microsoft.com/en-us/bing/apis/bing-image-search-api
+
 ## Some Website to Access/Share State of Art Models
 
 Hugging Face: https://huggingface.co/
@@ -39,6 +41,10 @@ https://app.inferkit.com/demo
 https://sassbook.com/ai-story-writer
 
 https://rytr.me/ 
+
+## Some development issue
+
+Access-Control-Allow-Origin: https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related?hl=en
 
 ## Some interesting paper
 
