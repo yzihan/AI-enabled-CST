@@ -44,6 +44,9 @@ https://sassbook.com/ai-story-writer
 
 https://rytr.me/ 
 
+## Comparison of all 3 top text-to-image models
+https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/
+
 ## Some development issue
 
 Access-Control-Allow-Origin: https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related?hl=en
