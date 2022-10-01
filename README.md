@@ -58,6 +58,10 @@ text-image-video: https://huggingface.co/spaces/Kameswara/TextToVideo
 
 DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/
 
+## Image to Text
+
+img2prompt: https://replicate.com/methexis-inc/img2prompt
+
 ## Text to Image
 
 Deforum Stable Diffusion: https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb
