@@ -44,6 +44,18 @@ https://sassbook.com/ai-story-writer
 
 https://rytr.me/ 
 
+## Video Generation
+
+Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions: https://phenaki.video/index.html
+
+Make-A-Video: https://makeavideo.studio/
+
+MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model: https://mingyuan-zhang.github.io/projects/MotionDiffuse.html
+
+## 3D Generation
+
+DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/
+
 ## Comparison of all 3 top text-to-image models
 https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/
 
