@@ -52,6 +52,8 @@ MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model: https:/
 
 CogVideo: https://github.com/THUDM/CogVideo
 
+text-image-video: https://huggingface.co/spaces/Kameswara/TextToVideo
+
 ## 3D Generation
 
 DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/
