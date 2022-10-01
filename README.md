@@ -12,6 +12,8 @@ plant recognition: https://web.plant.id/plant-identification-api/
 
 texture recognition (need to apply): https://www.clarifai.com/models/texture-recognition
 
+doodle-recognition: https://github.com/zhangchaodesign/doodle-recognition
+
 ## Image style transfer
 
 Arbitrary Neural Style Transfer: https://replicate.com/collections/style-transfer
@@ -55,6 +57,8 @@ DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/
 ## Text to Image
 
 Deforum Stable Diffusion: https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb
+
+stable diffusion demo: https://demo.rowy.io/table/imageGeneration
 
 Disco Diffusion: https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
 
