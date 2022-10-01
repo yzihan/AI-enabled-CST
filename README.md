@@ -66,6 +66,18 @@ Deforum Stable Diffusion: https://colab.research.google.com/github/deforum/stabl
 
 Disco Diffusion: https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
 
+## Some pytorch implementation
+
+video-diffusion-pytorch: https://github.com/lucidrains/video-diffusion-pytorch
+
+phenaki-pytorch: https://github.com/lucidrains/phenaki-pytorch
+
+make-a-video-pytorch: https://github.com/lucidrains/make-a-video-pytorch
+
+imagen-pytorch: https://github.com/lucidrains/imagen-pytorch
+
+DALLE2-pytorch: https://github.com/lucidrains/DALLE2-pytorch
+
 ## Some development issue
 
 Access-Control-Allow-Origin: https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related?hl=en
