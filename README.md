@@ -50,6 +50,8 @@ Make-A-Video: https://makeavideo.studio/
 
 MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model: https://mingyuan-zhang.github.io/projects/MotionDiffuse.html
 
+CogVideo: https://github.com/THUDM/CogVideo
+
 ## 3D Generation
 
 DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/
