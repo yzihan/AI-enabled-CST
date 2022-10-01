@@ -36,13 +36,17 @@ Rapid API: https://rapidapi.com/hub
 
 ml5.js: https://ml5js.org/
 
-## Some SOTA text-based story generation examples
+## Some SOTA text-based story text generation examples
 
 https://app.inferkit.com/demo
 
 https://sassbook.com/ai-story-writer
 
 https://rytr.me/ 
+
+## Story book generation
+
+StoryDall-E: https://github.com/adymaharana/storydalle?continueFlag=aecf3cf42991a37d09397fc61687c405
 
 ## Video Generation
 
@@ -56,8 +60,11 @@ MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model: https:/
 
 DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/
 
-## Comparison of all 3 top text-to-image models
-https://petapixel.com/2022/08/22/ai-image-generators-compared-side-by-side-reveals-stark-differences/
+## Text to Image
+
+Deforum Stable Diffusion: https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb
+
+Disco Diffusion: https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
 
 ## Some development issue
 
